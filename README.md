@@ -19,7 +19,7 @@ We recommend checking back soon for a more stable release.
 
 ## 📄 Paper
 
-**Do LLMs Encode Functional Importance of Reasoning Tokens ?**  
+**Do LLMs Encode Functional Importance of Reasoning Tokens?**  
 (Under submission)
 
 A preprint link will be added once available.
